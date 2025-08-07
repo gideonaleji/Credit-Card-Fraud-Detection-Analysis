@@ -10,6 +10,9 @@
 
 Credit card fraud represents one of the most significant challenges in the financial technology sector, with global losses exceeding billions of dollars annually. This project addresses the critical need for intelligent fraud detection systems by combining machine learning techniques with comprehensive data visualization to identify fraudulent credit card transactions in real-time.
 
+<img width="1321" height="856" alt="PowerBI Dashboard" src="https://github.com/user-attachments/assets/dab12e30-427d-4fbe-b42f-236e82229e60" />
+
+
 ### Problem Statement
 Traditional rule-based fraud detection systems often fail to adapt to evolving fraud patterns, resulting in high false positive rates and missed fraudulent transactions. This project develops a machine learning-powered solution that learns from historical transaction patterns to accurately identify suspicious activities.
 
